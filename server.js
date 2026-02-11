@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
     }
 
     // Reemplaza esta URL con la tuya de Cloudinary más adelante
-    const imageUrl = 'https://res.cloudinary.com/demo/image/upload/v1312461204/sample.jpg'; 
+    const imageUrl = 'https://res.cloudinary.com/dbju8xqma/image/upload/v1770813773/coche_amarillo_lct6bq.jpg'; 
     
     res.send(`
       <h1>Hola Mundo desde Railway!</h1>
